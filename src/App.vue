@@ -17,8 +17,8 @@
 
     <footer id="contacts" class="app-footer">
       <strong>Контакти:</strong><br>
-      📧 Email: support@gamekhata.com.ua (Приклад)<br>
-      📞 Телефон: +380 (XX) XXX-XX-XX (Приклад)<br>
+      📧 Email: support@gamekhata.com.ua <br>
+      📞 Телефон: +380 (XX) XXX-XX-XX <br>
       🕒 Графік роботи: Пн–Пт з 9:00 до 18:00<br>
       <p>© {{ new Date().getFullYear() }} ГеймХата. Усі права захищено.</p>
     </footer>
